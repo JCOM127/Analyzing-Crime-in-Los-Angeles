@@ -1,4 +1,4 @@
-Project Title:** LA Crime Analysis and Visualization
+Project Title: LA Crime Analysis and Visualization
 
 Description:
 This project utilizes Python's Pandas library to analyze and visualize crime data. Leveraging the Pandas framework, the code processes a dataset containing information about crimes, including dates, times, and victim demographics. It performs exploratory data analysis to uncover insights such as peak crime hours, crime occurrences over time, and crime frequency across various victim age groups.
